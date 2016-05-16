@@ -2,11 +2,11 @@
 //  Pipes.h
 //  Pipes
 //
-//  Created by Jason Larsen on 4/28/15.
-//  Copyright (c) 2015 Jason Larsen. All rights reserved.
+//  Created by Tancrède on 5/13/16.
+//  Copyright © 2016 Jason Larsen. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <Cocoa/Cocoa.h>
 
 //! Project version number for Pipes.
 FOUNDATION_EXPORT double PipesVersionNumber;
